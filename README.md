@@ -41,6 +41,10 @@ pip install mss opencv-python
    pyinstaller --onefile --noconsole backdoor.py
    ```
 
+## Disclaimer 
+
+I will be doing updates adding more cool **features**
+
 ## Warning
 
 **Skynet** is a powerful tool and should be used ethically and legally. Unauthorized use on systems you do not own is illegal and could lead to legal consequences. Use this tool only on systems you own or in controlled testing environments.
