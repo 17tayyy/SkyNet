@@ -41,9 +41,7 @@ pip install mss opencv-python
    pyinstaller --onefile --noconsole backdoor.py
    ```
 
-## Disclaimer 
-
-I will be doing updates adding more cool **features**
+### I will be doing updates and adding more cool **features**
 
 ## Warning
 
