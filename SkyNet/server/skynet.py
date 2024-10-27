@@ -46,8 +46,8 @@ def backdoorManual():
     
     Screenshots and Webcam:
     -------------------------------------------------------------------
-    screenshot                -- Takes screenshot (stored in ./images/screens/).
-    webcam                    -- Captures webcam image (stored in ./images/webcam/).
+    screenshot                -- Takes screenshot (stored in ./imgs/sch/).
+    webcam                    -- Captures webcam image (stored in ./imgs/web/).
                    
     ===================================================================
     \n''', 'blue')))
