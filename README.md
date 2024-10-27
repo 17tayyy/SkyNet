@@ -3,7 +3,7 @@
 ![Captura de pantalla 2024-10-27 195536](https://github.com/user-attachments/assets/ebcf10d6-743e-4b66-ba9b-f0196d95becd)
 
 
-**Skynet** is a powerful Command and Control (C2) framework designed for interacting with and managing multiple devices remotely through a backdoor. This software allows for command execution, file transfer, and capturing screenshots and webcam images from the victim's machine. Its functionality includes persistence, ensuring that the backdoor remains active even after reboots.
+**Skynet** is a powerful Command and Control (C2) designed for interacting with and managing multiple devices remotely through a backdoor. This software allows for command execution, file transfer, and capturing screenshots and webcam images from the victim's machine. Its functionality includes persistence, ensuring that the backdoor remains active even after reboots.
 
 ## Features
 
