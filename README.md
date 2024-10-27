@@ -41,10 +41,6 @@ pip install mss opencv-python
    pyinstaller --onefile --noconsole backdoor.py
    ```
 
-## Contributing
-
-Contributions are welcome! If you'd like to add more features or improve the code, feel free to fork the repository and create a pull request.
-
 ## Warning
 
 **Skynet** is a powerful tool and should be used ethically and legally. Unauthorized use on systems you do not own is illegal and could lead to legal consequences. Use this tool only on systems you own or in controlled testing environments.
