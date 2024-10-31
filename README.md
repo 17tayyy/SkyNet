@@ -23,14 +23,14 @@ pip install mss opencv-python
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your_username/skynet.git
+   git clone https://github.com/17tayyy/skynet.git
    cd skynet
    ```
 
 2. **Run the C2 server**:
 
    ```bash
-   python server.py
+   python3 server.py
    ```
 
 3. **Compile the backdoor (optional)**:
@@ -41,7 +41,7 @@ pip install mss opencv-python
    pyinstaller --onefile --noconsole backdoor.py
    ```
 
-### I will be doing updates and adding more cool **features**
+## I will be doing updates and adding more cool **features**
 
 ## Warning
 
