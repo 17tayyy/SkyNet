@@ -30,7 +30,7 @@ pip install mss opencv-python
 2. **Run the C2 server**:
 
    ```bash
-   python3 server.py
+   python3 skynet.py
    ```
 
 3. **Compile the backdoor (optional)**:
